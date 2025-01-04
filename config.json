@@ -1,0 +1,7 @@
+
+            {
+              "backendUrl":"https://yandex-server.candyvalley.g.tapclap.com",
+              "growthbookApiKey":"prod_6xoag2yeuCz7LKgpt5oUI32N1ylRFcUPEZEEjqHRMaE",
+              "growthbookApiUrl":"https://tapclap-growthbook.akamaized.net",
+              "clickhouseApiUrl":"https://candyvalley-statistics.g.tapclap.com"
+            }
